@@ -1,0 +1,5 @@
+#exclude replit files
+.replit
+poetry.lock
+pyproject.toml
+replit.nix
